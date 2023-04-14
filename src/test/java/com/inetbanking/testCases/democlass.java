@@ -7,5 +7,6 @@ int b=10;
   int d=15;
   int e=16;
   int shiv=1;
+  int swami =2;
 
 }
