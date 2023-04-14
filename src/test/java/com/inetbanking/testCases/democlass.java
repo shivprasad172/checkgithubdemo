@@ -4,5 +4,6 @@ public class democlass {
 int a=10;
 int b=10;
   int c=12;
+  int d=15;
 
 }
