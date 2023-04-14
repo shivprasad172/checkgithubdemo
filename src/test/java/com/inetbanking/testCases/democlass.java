@@ -6,5 +6,6 @@ int b=10;
   int c=12;
   int d=15;
   int e=16;
+  int shiv=1;
 
 }
