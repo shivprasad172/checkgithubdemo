@@ -2,4 +2,5 @@ package com.inetbanking.testCases;
 
 public class gitrepo {
 int a=10;
+int b=20;
 }
